@@ -1,2 +1,0 @@
-# jenskinslearn
-Learn CI/CD
